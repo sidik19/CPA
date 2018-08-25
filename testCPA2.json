@@ -1,0 +1,18 @@
+[
+  {
+    "abbrev":"ME",
+    "parentState":"JAKARTA",
+    "capital":"MEET ME AT MEAT RESTO AND MEATSHOP",
+    "lat":-6.273861,
+    "lon":106.763750,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  }
+]
