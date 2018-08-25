@@ -1,11 +1,11 @@
 [
   {
-    "abbrev":"ME",
-    "parentState":"Jawa Barat",
-    "capital":"MEET ME AT MEAT RESTO AND MEATSHOP",
-    "lat": -6.273861,
-    "lon": 106.763750,
-    "population":
+    "abbrev":"AL",
+    "parentState":"Alabama",
+    "capital":"Montgomery",
+    "lat":32.380120,
+    "lon":-86.300629,
+    "population":205764
   },
   {
     "abbrev":"AK",
