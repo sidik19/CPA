@@ -1,0 +1,242 @@
+[
+  {
+    "abbrev":"ME",
+    "parentState":"JAKARTA",
+    "capital":"MEET ME AT MEAT RESTO AND MEATSHOP",
+    "lat":-6.273861,
+    "lon":106.763750,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"HN",
+    "parentState":"TANGERANG",
+    "capital":"HOTEL NOVOTEL TANGERANG",
+    "lat":-6.194389,
+    "lon":106.634583,
+    "population":1
+  },
+  {
+    "abbrev":"GM",
+    "parentState":"JAKARTA",
+    "capital":"GRAND MERCURE KEMAYORAN",
+    "lat":-6.153778,
+    "lon":106.849778,
+    "population":1
+  },
+  {
+    "abbrev":"SP",
+    "parentState":"TANGERANG",
+    "capital":"PT. SUMBER PRIMA ANUGRAH ABADI",
+    "lat":-6.214583,
+    "lon":106.622333,
+    "population":1
+  },
+  {
+    "abbrev":"CP",
+    "parentState":"TANGERANG",
+    "capital":"PT. CIPTA PANGAN ADIPERKASA",
+    "lat":-6.214806,
+    "lon":106.531528,
+    "population":1
+  },
+  {
+    "abbrev":"LF",
+    "parentState":"SERANG",
+    "capital":"LABBAIK FRIED CHICKEN",
+    "lat":-6.107278,
+    "lon":106.174972,
+    "population":1
+  },
+  {
+    "abbrev":"SB",
+    "parentState":"BEKASI",
+    "capital":" PT. SAHARA BOGATAMA INDONESIA",
+    "lat":-6.282972,
+    "lon":106.949111,
+    "population":1
+  },
+  {
+    "abbrev":"CC",
+    "parentState":"BEKASI",
+    "capital":"PT. CREATIVE CULINARY",
+    "lat":-6.277639,
+    "lon":107.156917,
+    "population":1
+  },
+  {
+    "abbrev":"MT",
+    "parentState":"JAKARTA",
+    "capital":"PT. MAHESA TRIBUANA PERKASA",
+    "lat":-6.201278,
+    "lon":106.935583,
+    "population":1
+  },
+  {
+    "abbrev":"UF",
+    "parentState":"TANGERANG",
+    "capital":"PD. USAHA FOOD",
+    "lat":-6.334194,
+    "lon":106.680944,
+    "population":1
+  },
+  {
+    "abbrev":"AF",
+    "parentState":"TANGERANG",
+    "capital":"PT. ARCHIPELAGO FOOD SOLUTIONS",
+    "lat":-6.200361,
+    "lon":106.598500,
+    "population":1
+  },
+  {
+    "abbrev":"FF",
+    "parentState":"TANGERANG",
+    "capital":"PT. MATAHARI PUTRA PRIMA CBG INTERMARK BSD (FOODMART FRESH INTERMARK BSD)",
+    "lat":-6.309667,
+    "lon":106.689500,
+    "population":1
+  },
+  {
+    "abbrev":"SC",
+    "parentState":"JAKARTA",
+    "capital":"PT. MATAHARI PUTRA PRIMA CBG BELLA TERRA KELAPA GADING (SMARTCLUB KELAPA GADING)",
+    "lat":-6.154528,
+    "lon":106.892194,
+    "population":1
+  },
+  {
+    "abbrev":"HM",
+    "parentState":"BANDUNG",
+    "capital":"PT. MATAHARI PUTRA PRIMA CBG MIKO BANDUNG (HYPERMART MIKO MALL)",
+    "lat":-6.960306,
+    "lon":107.581028,
+    "population":1
+  },
+  {
+    "abbrev":"LL",
+    "parentState":"LAMPUNG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG LAMPUNG",
+    "lat":-5.350917,
+    "lon":105.221722,
+    "population":1
+  },
+  {
+    "abbrev":"TL",
+    "parentState":"LAMPUNG",
+    "capital":"PT. TRANS RETAIL INDONESIA / TRANSMART LAMPUNG",
+    "lat":-5.383361,
+    "lon":105.282111,
+    "population":1
+  },
+  {
+    "abbrev":"LS",
+    "parentState":"SAMARINDA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG SAMARINDA",
+    "lat":-0.473028,
+    "lon":117.130806,
+    "population":1
+  },
+  {
+    "abbrev":"LB",
+    "parentState":"BALIKPAPAN",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BALIKPAPAN",
+    "lat":-1.240444,
+    "lon":116.875444,
+    "population":1
+  },
+  {
+    "abbrev":"LD",
+    "parentState":"BALI",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG DENPASAR, BALI",
+    "lat":-8.713639,
+    "lon":115.220889,
+    "population":1
+  },
+  {
+    "abbrev":"LBN",
+    "parentState":"BANJARMASIN",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BANJARMASIN",
+    "lat":-3.332389,
+    "lon":114.613639,
+    "population":1
+  },
+  {
+    "abbrev":"LP",
+    "parentState":"PALEMBANG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG PALEMBANG",
+    "lat":-2.949417,
+    "lon":104.761250,
+    "population":1
+  },
+  {
+    "abbrev":"LY",
+    "parentState":"YOGYAKARTA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG JOGLOSEMAR (YOGYAKARTA)",
+    "lat":-7.766556,
+    "lon":110.433194,
+    "population":1
+  },
+  {
+    "abbrev":"LM",
+    "parentState":"MAKASSAR",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG MAKASSAR",
+    "lat":-5.169917,
+    "lon":119.425944,
+    "population":1
+  },
+  {
+    "abbrev":"LPB",
+    "parentState":"PEKANBARU",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG PEKANBARU",
+    "lat":0.506111,
+    "lon":101.419694,
+    "population":1
+  },
+  {
+    "abbrev":"LT",
+    "parentState":"TASIKMALAYA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CAB TASIKMALAYA",
+    "lat":-7.368000,
+    "lon":108.215028,
+    "population":1
+  },
+  {
+    "abbrev":"HK",
+    "parentState":"JAKARTA",
+    "capital":"KERATON AT THE PLAZA HOTEL JAKARTA",
+    "lat":-6.192667,
+    "lon":106.821528,
+    "population":1
+  },
+  {
+    "abbrev":"LS",
+    "parentState":"SOLO",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CAB SOLO",
+    "lat":-7.598778,
+    "lon":110.816889,
+    "population":1
+  },
+  {
+    "abbrev":"TC",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR CENTRAL PARK",
+    "lat":-6.177083,
+    "lon":106.790528,
+    "population":1
+  },
+  {
+    "abbrev":"TH",
+    "parentState":"BEKASI",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR BEKASI HARAPAN INDAH",
+    "lat":-6.186833,
+    "lon":106.976139,
+    "population":1
+  }
+]

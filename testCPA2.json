@@ -14,5 +14,237 @@
     "lat":-6.188389,
     "lon":106.904833,
     "population":1
+  },
+  {
+    "abbrev":"HN",
+    "parentState":"TANGERANG",
+    "capital":"HOTEL NOVOTEL TANGERANG",
+    "lat":-6.194389,
+    "lon":106.634583,
+    "population":1
+  },
+  {
+    "abbrev":"GM",
+    "parentState":"JAKARTA",
+    "capital":"GRAND MERCURE KEMAYORAN",
+    "lat":-6.153778,
+    "lon":106.849778,
+    "population":1
+  },
+  {
+    "abbrev":"SP",
+    "parentState":"TANGERANG",
+    "capital":"PT. SUMBER PRIMA ANUGRAH ABADI",
+    "lat":-6.214583,
+    "lon":106.622333,
+    "population":1
+  },
+  {
+    "abbrev":"CP",
+    "parentState":"TANGERANG",
+    "capital":"PT. CIPTA PANGAN ADIPERKASA",
+    "lat":-6.214806,
+    "lon":106.531528,
+    "population":1
+  },
+  {
+    "abbrev":"LF",
+    "parentState":"SERANG",
+    "capital":"LABBAIK FRIED CHICKEN",
+    "lat":-6.107278,
+    "lon":106.174972,
+    "population":1
+  },
+  {
+    "abbrev":"SB",
+    "parentState":"BEKASI",
+    "capital":" PT. SAHARA BOGATAMA INDONESIA",
+    "lat":-6.282972,
+    "lon":106.949111,
+    "population":1
+  },
+  {
+    "abbrev":"CC",
+    "parentState":"BEKASI",
+    "capital":"PT. CREATIVE CULINARY",
+    "lat":-6.277639,
+    "lon":107.156917,
+    "population":1
+  },
+  {
+    "abbrev":"MT",
+    "parentState":"JAKARTA",
+    "capital":"PT. MAHESA TRIBUANA PERKASA",
+    "lat":-6.201278,
+    "lon":106.935583,
+    "population":1
+  },
+  {
+    "abbrev":"UF",
+    "parentState":"TANGERANG",
+    "capital":"PD. USAHA FOOD",
+    "lat":-6.334194,
+    "lon":106.680944,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
   }
 ]
