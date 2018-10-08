@@ -1,0 +1,490 @@
+[
+  {
+    "abbrev":"ME",
+    "parentState":"JAKARTA",
+    "capital":"MEET ME AT MEAT RESTO AND MEATSHOP",
+    "lat":-6.273861,
+    "lon":106.763750,
+    "population":1
+  },
+  {
+    "abbrev":"DJ",
+    "parentState":"JAKARTA",
+    "capital":"PD. DHARMA JAYA",
+    "lat":-6.188389,
+    "lon":106.904833,
+    "population":1
+  },
+  {
+    "abbrev":"GM",
+    "parentState":"JAKARTA",
+    "capital":"GRAND MERCURE KEMAYORAN JAKARTA (PT. MEGAH MITRA SUKSES)",
+    "lat":-6.153778,
+    "lon":106.849778,
+    "population":1
+  },
+{
+    "abbrev":"FJA",
+    "parentState":"JAKARTA",
+    "capital":"PT. FAJAR JAYA ANUGERAH",
+    "lat":-6.182485,
+    "lon":106.913774,
+    "population":1
+  },
+  {
+    "abbrev":"SP",
+    "parentState":"TANGERANG",
+    "capital":"PT. SUMBER PRIMA ANUGRAH ABADI",
+    "lat":-6.214583,
+    "lon":106.622333,
+    "population":1
+  },
+  {
+    "abbrev":"CP",
+    "parentState":"TANGERANG",
+    "capital":"PT. CIPTA PANGAN ADIPERKASA",
+    "lat":-6.214806,
+    "lon":106.531528,
+    "population":1
+  },
+  {
+    "abbrev":"SPS",
+    "parentState":"BALI",
+    "capital":"PT. SATRIA PANGAN SEJATI",
+    "lat":-8.738590,
+    "lon":115.173257,
+    "population":1
+  },
+  {
+    "abbrev":"DGI",
+    "parentState":"BEKASI",
+    "capital":"PT. DE GLOW INTERNATIONAL",
+    "lat":-6.274316,
+    "lon":107.150364,
+    "population":1
+  },
+  {
+    "abbrev":"HB",
+    "parentState":"TANGERANG",
+    "capital":"PT. HERO SUPERMARKET CBG BINTARO PLAZA",
+    "lat":-6.272489,
+    "lon":106.741853,
+    "population":1
+  },
+  {
+    "abbrev":"TP",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / TRANSMART PASARAYA BLOK M",
+    "lat":-6.244129,
+    "lon":106.803095,
+    "population":1
+  },
+  {
+    "abbrev":"HK",
+    "parentState":"BOGOR",
+    "capital":"PT. HERO SUPERMARKET CBG KOTA WISATA (6202)",
+    "lat":-6.364225,
+    "lon":106.958978,
+    "population":1
+  },
+  {
+    "abbrev":"LL",
+    "parentState":"LAMPUNG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG LAMPUNG",
+    "lat":-5.350917,
+    "lon":105.221722,
+    "population":1
+  },
+  {
+    "abbrev":"TG",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR GRAHA BINTARO",
+    "lat":-6.240485,
+    "lon":106.675462,
+    "population":1
+  },
+  {
+    "abbrev":"TL",
+    "parentState":"LAMPUNG",
+    "capital":"PT. TRANS RETAIL INDONESIA / TRANSMART LAMPUNG",
+    "lat":-5.383361,
+    "lon":105.282111,
+    "population":1
+  },
+  {
+    "abbrev":"TC",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR CILANDAK",
+    "lat":-6.301476,
+    "lon":106.813974,
+    "population":1
+  },
+  {
+    "abbrev":"TC",
+    "parentState":"BEKASI",
+    "capital":"PT. TRANS RETAIL INDONESIA (DC STD FRESH CIKARANG)",
+    "lat":-6.292067,
+    "lon":107.076979,
+    "population":1
+  },
+  {
+    "abbrev":"NB",
+    "parentState":"JAKARTA",
+    "capital":"NANABANTEI",
+    "lat":-6.186811,
+    "lon":106.824517,
+    "population":1
+  },
+  {
+    "abbrev":"RT",
+    "parentState":"TANGERANG",
+    "capital":"PT RAJA TOP FOOD ( ES TELER 77 )",
+    "lat":-6.334088,
+    "lon":106.680054,
+    "population":1
+  },
+  {
+    "abbrev":"SH",
+    "parentState":"TANGERANG",
+    "capital":"SATE HOUSE",
+    "lat":-6.303754,
+    "lon":106.644435,
+    "population":1
+  },
+  {
+    "abbrev":"BT",
+    "parentState":"TANGERANG",
+    "capital":"BEBEK TEPI SAWAH (PT. TUNAS NUANSA INDONESIA)",
+    "lat":-6.244369,
+    "lon":106.653247,
+    "population":1
+  },
+  {
+    "abbrev":"PR",
+    "parentState":"JAKARTA",
+    "capital":"PUPUT RESTAURANT ",
+    "lat":-6.189574,
+    "lon":106.874185,
+    "population":1
+  },
+  {
+    "abbrev":"SS",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRI MITRA CITRA SELERA (SEASIDE SUKI)",
+    "lat":-6.122817,
+    "lon":106.843568,
+    "population":1
+  },
+  {
+    "abbrev":"LS",
+    "parentState":"SEMARANG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG SEMARANG",
+    "lat":-6.999054,
+    "lon":110.444289,
+    "population":1
+  },
+  {
+    "abbrev":"LB",
+    "parentState":"BANDUNG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BANDUNG",
+    "lat":-6.929815,
+    "lon":107.587152,
+    "population":1
+  },
+  {
+    "abbrev":"LB",
+    "parentState":"BALIKPAPAN",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BALIKPAPAN",
+    "lat":-1.240444,
+    "lon":116.875444,
+    "population":1
+  },
+{
+    "abbrev":"LBN",
+    "parentState":"BANJARMASIN",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BANJARMASIN",
+    "lat":-3.332389,
+    "lon":114.613639,
+    "population":1
+  },
+  {
+    "abbrev":"LP",
+    "parentState":"PALEMBANG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG PALEMBANG",
+    "lat":-2.949417,
+    "lon":104.761250,
+    "population":1
+  },
+{
+    "abbrev":"LC",
+    "parentState":"CIREBON",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG CIREBON ",
+    "lat": -6.731730,
+    "lon":108.539801,
+    "population":1
+  },
+  {
+    "abbrev":"LM",
+    "parentState":"MAKASSAR",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG MAKASSAR",
+    "lat":-5.169917,
+    "lon":119.425944,
+    "population":1
+  },
+  {
+    "abbrev":"SB",
+    "parentState":"BALI",
+    "capital":"PT. SOEJASCH BALI ",
+    "lat":-6.339905,
+    "lon":106.678848,
+    "population":1
+  },
+  {
+    "abbrev":"QB",
+    "parentState":"TANGERANG",
+    "capital":"PT. QUANTUM BOGA INDONESIA ",
+    "lat":-6.332339,
+    "lon":106.678572,
+    "population":1
+  },
+  {
+    "abbrev":"KK",
+    "parentState":"BEKASI",
+    "capital":"PT. KIRANA INDO PRATAMA (KIRANA KATERING)",
+    "lat":-6.321596,
+    "lon":107.149753,
+    "population":1
+  },
+  {
+    "abbrev":"F",
+    "parentState":"JAKARTA",
+    "capital":"PT. FORMISA",
+    "lat":-6.179938,
+    "lon":106.711584,
+    "population":1
+  },
+  {
+    "abbrev":"WT",
+    "parentState":"TANGERANG",
+    "capital":"WARUNG TEKKO",
+    "lat":-6.241851,
+    "lon":106.651752,
+    "population":1
+  },	
+  {
+    "abbrev":"TS",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR SEASON CITY",
+    "lat":-6.153573,
+    "lon":106.796353,
+    "population":1
+  },
+  {
+    "abbrev":"TS",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR SERANG",
+    "lat":-6.121224,
+    "lon":106.171703,
+    "population":1
+  },
+  {
+    "abbrev":"TI",
+    "parentState":"TANGERANG",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR ITC BSD",
+    "lat":-6.286472,
+    "lon":106.664136,
+    "population":1
+  },
+  {
+    "abbrev":"TD",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR DUTA MERLIN",
+    "lat":-6.165562,
+    "lon":106.819292,
+    "population":1
+  },
+  {
+    "abbrev":"TT",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR TAMINI SQUARE",
+    "lat":-6.290955,
+    "lon":106.882110,
+    "population":1
+  },
+  {
+    "abbrev":"TK",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR KRAMATJATI INDAH",
+    "lat":-6.270677,
+    "lon":106.868914,
+    "population":1
+  },
+  {
+    "abbrev":"TM",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR MENTENG PRADA",
+    "lat":-6.198303,
+    "lon":106.842027,
+    "population":1
+  },
+  {
+    "abbrev":"TB",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR BUARAN",
+    "lat":-6.217339,
+    "lon":106.924150,
+    "population":1
+  },
+  {
+    "abbrev":"TC",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR CENTRAL PARK",
+    "lat":-6.177083,
+    "lon":106.790528,
+    "population":1
+  },
+  {
+    "abbrev":"TK",
+    "parentState":"JAKARTA",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR KELAPA GADING",
+    "lat":-6.151250,
+    "lon":106.892718,
+    "population":1
+  },
+  {
+    "abbrev":"LN",
+    "parentState":"JAKARTA",
+    "capital":"PT. LION SUPERINDO",
+    "lat":-6.241036,
+    "lon":106.840928,
+    "population":1
+  },
+  {
+    "abbrev":"TB",
+    "parentState":"BEKASI",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR BLUE MALL BEKASI",
+    "lat":-6.256619,
+    "lon":107.008539,
+    "population":1
+  },
+  {
+    "abbrev":"LM",
+    "parentState":"JAKARTA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG MERUYA",
+    "lat":-6.193740,
+    "lon":106.734064,
+    "population":1
+  },
+  {
+    "abbrev":"LC",
+    "parentState":"JAKARTA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG CIPUTAT",
+    "lat":-6.300492,
+    "lon":106.758952,
+    "population":1
+  },
+  {
+    "abbrev":"LA",
+    "parentState":"TANGERANG",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG ALAM SUTERA",
+    "lat":-6.246707,
+    "lon":106.651185,
+    "population":1
+  },
+  {
+    "abbrev":"LCB",
+    "parentState":"BEKASI",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG CIBITUNG",
+    "lat":-6.288423,
+    "lon":107.087378,
+    "population":1
+  },
+  {
+    "abbrev":"LBG",
+    "parentState":"BOGOR",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG BOGOR",
+    "lat":-6.556311,
+    "lon":106.778627,
+    "population":1
+  },
+  {
+    "abbrev":"HK",
+    "parentState":"JAKARTA",
+    "capital":"PT. HERO SUPERMARKET CBG KEMANG VILLA",
+    "lat":-6.265213,
+    "lon":106.820480,
+    "population":1
+  },
+  {
+    "abbrev":"HP",
+    "parentState":"JAKARTA",
+    "capital":"PT. HERO SUPERMARKET CBG PONDOK INDAH MALL",
+    "lat":-6.265608,
+    "lon":106.784908,
+    "population":1
+  },
+  {
+    "abbrev":"HT",
+    "parentState":"JAKARTA",
+    "capital":"PT. HERO SUPERMARKET CBG TAROGONG",
+    "lat":-6.283006,
+    "lon":106.791517,
+    "population":1
+  },
+  {
+    "abbrev":"HT",
+    "parentState":"JAKARTA",
+    "capital":"PT. HERO SUPERMARKET CBG TAMAN ANGGREK",
+    "lat":-6.178796,
+    "lon":106.792762,
+    "population":1
+  },
+  {
+    "abbrev":"HP",
+    "parentState":"JAKARTA",
+    "capital":"PT. HERO SUPERMARKET CBG PURI INDAH MALL",
+    "lat":-6.189284,
+    "lon":106.733997,
+    "population":1
+  },
+  {
+    "abbrev":"HC",
+    "parentState":"BEKASI",
+    "capital":"PT. HERO SUPERMARKET CBG CIBITUNG",
+    "lat":-6.276895,
+    "lon":107.093319,
+    "population":1
+  },
+  {
+    "abbrev":"BJ",
+    "parentState":"JAKARTA",
+    "capital":"BISTRO JAVA",
+    "lat":-6.189759,
+    "lon":106.761308,
+    "population":1
+  },
+  {
+    "abbrev":"TTC",
+    "parentState":"TANGERANG",
+    "capital":"PT. TRANS RETAIL INDONESIA / CARREFOUR TANGERANG CITY (Kode : 20)",
+    "lat":-6.207321,
+    "lon":106.629354,
+    "population":1
+  },
+  {
+    "abbrev":"LPR",
+    "parentState":"JAKARTA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG PASAR REBO",
+    "lat":-6.307799,
+    "lon":106.867015,
+    "population":1
+  },
+  {
+    "abbrev":"LKG",
+    "parentState":"JAKARTA",
+    "capital":"PT. LOTTE SHOPPING INDONESIA CBG KELAPA GADING",
+    "lat":-6.153709,
+    "lon":106.895701,
+    "population":1
+  }
+]
